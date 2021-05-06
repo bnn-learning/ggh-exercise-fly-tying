@@ -33,3 +33,8 @@
   - Commit changes
   - Merge branchC into main
   - Should be no conflicts
+
+- Rename GH repo ggh-exercise-fly-tying
+  - Rename repo on GH
+  - Test fetch from local
+  - Test push from local
